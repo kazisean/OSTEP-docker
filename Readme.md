@@ -13,8 +13,10 @@ git clone https://github.com/kazisean/ostep-sol
 ./fetch.sh
 ```
 
-Push using : git push origin main
-
+Push using : 
+```
+git push origin main
+```
 
 
 --WIP--
