@@ -5,6 +5,6 @@
 
 <h2 align="center">🃏 Operating Systems: Three Easy Pieces Solutions</h2>
 
-**👨‍💻 Repo Description**: My solution to OSTEP [Homeworks](https://github.com/remzi-arpacidusseau/ostep-homework) and [Projects]https://github.com/remzi-arpacidusseau/ostep-projects) from the golden book of OS [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) 
+**👨‍💻 Repo Description**: My solution to OSTEP [Homeworks](https://github.com/remzi-arpacidusseau/ostep-homework) and [Projects](https://github.com/remzi-arpacidusseau/ostep-projects) from the golden book of OS [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) 
 
 --WIP--
