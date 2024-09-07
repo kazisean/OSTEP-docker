@@ -7,16 +7,6 @@
 
 **👨‍💻 Repo Description**: My solution to OSTEP [Homeworks](https://github.com/remzi-arpacidusseau/ostep-homework) and [Projects](https://github.com/remzi-arpacidusseau/ostep-projects) from the golden book of OS [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) 
 
-## Setup 
-```
-git clone https://github.com/kazisean/ostep-sol
-./fetch.sh
-```
-
-Push using : 
-```
-git push origin main
-```
 
 
 --WIP--
